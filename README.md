@@ -44,6 +44,7 @@
 
 <br />
 
+## Projects
 <div>
 <p>
 [Redux Inspector][https://www.npmjs.com/package/redux-inspector] is a plugin for Redux.
