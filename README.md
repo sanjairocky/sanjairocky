@@ -50,7 +50,7 @@
 [![npm version](https://img.shields.io/npm/v/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
 [![npm downloads](https://img.shields.io/npm/dm/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
 [![npm license](https://img.shields.io/npm/l/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
-</div
+ </div>
   
 </div>
 <br />
