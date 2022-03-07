@@ -46,12 +46,12 @@
 
 ## Projects
 <div>
-<p>
+<div>
 [Redux Inspector][https://www.npmjs.com/package/redux-inspector] is a plugin for Redux.
-[![npm version](https://img.shields.io/npm/v/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
-[![npm downloads](https://img.shields.io/npm/dm/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
-[![npm license](https://img.shields.io/npm/l/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
- </p>
+[![npm version](https://img.shields.io/npm/v/redux-inspector.svg?style=flat-square)]
+[![npm downloads](https://img.shields.io/npm/dm/redux-inspector.svg?style=flat-square)]
+[![npm license](https://img.shields.io/npm/l/redux-inspector.svg?style=flat-square)]
+ </div>
   
 </div>
 <br />
