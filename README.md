@@ -45,12 +45,12 @@
 <br />
 
 <div>
-<div style="display:flex;">
-[Redux Inspector](https://www.npmjs.com/package/redux-inspector) is a plugin for Redux.
+<p>
+[Redux Inspector][https://www.npmjs.com/package/redux-inspector] is a plugin for Redux.
 [![npm version](https://img.shields.io/npm/v/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
 [![npm downloads](https://img.shields.io/npm/dm/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
 [![npm license](https://img.shields.io/npm/l/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
- </div>
+ </p>
   
 </div>
 <br />
