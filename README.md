@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm [Sanjai Kumar Arumugam][website] but you can call me SanjaiRocky 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=sanjairocky.sanjairocky) [![Github](https://img.shields.io/github/followers/sanjairocky?label=Followers&logo=Github)](https://github.com/sanjairocky)
 
-
 ## 🎓 I'm an Software Engineer
 
 - 🌱 I’m currently learning Node.js. 
@@ -45,16 +44,13 @@
 <br />
 
 ## Projects
-<div>
-<div>
-[Redux Inspector][https://www.npmjs.com/package/redux-inspector] is a plugin for Redux.
-[![npm version](https://img.shields.io/npm/v/redux-inspector.svg?style=flat-square)]
-[![npm downloads](https://img.shields.io/npm/dm/redux-inspector.svg?style=flat-square)]
-[![npm license](https://img.shields.io/npm/l/redux-inspector.svg?style=flat-square)]
- </div>
-  
-</div>
-<br />
+
+1. [Redux Inspector](https://www.npmjs.com/package/redux-inspector) is a plugin for Redux.
+
+[![npm version](https://img.shields.io/npm/v/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
+[![npm downloads](https://img.shields.io/npm/dm/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
+[![npm license](https://img.shields.io/npm/l/redux-inspector.svg?style=flat-square)](https://www.npmjs.com/package/redux-inspector)
+
 
 ## :trophy: My Github Stats:
 
